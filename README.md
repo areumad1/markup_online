@@ -1,2 +1,6 @@
-# markup_online
-Homework for online HTML/CSS course
+# Домашние задания по HTML/CSS
+ 
+ 
+## Полезные ссылки и литература
+
+1. Справочник по тегам и аттрибутам тегов: [htmlbook.ru](http://htmlbook.ru/html)
